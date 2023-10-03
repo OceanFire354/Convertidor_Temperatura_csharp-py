@@ -1,0 +1,10 @@
+C:\Users\leona\source\repos\Convertidor_Temperatura\Convertidor_Temperatura\bin\Debug\Convertidor_Temperatura.exe.config
+C:\Users\leona\source\repos\Convertidor_Temperatura\Convertidor_Temperatura\bin\Debug\Convertidor_Temperatura.exe
+C:\Users\leona\source\repos\Convertidor_Temperatura\Convertidor_Temperatura\bin\Debug\Convertidor_Temperatura.pdb
+C:\Users\leona\source\repos\Convertidor_Temperatura\Convertidor_Temperatura\obj\Debug\Convertidor_Temperatura.csproj.AssemblyReference.cache
+C:\Users\leona\source\repos\Convertidor_Temperatura\Convertidor_Temperatura\obj\Debug\Convertidor_Temperatura.Form1.resources
+C:\Users\leona\source\repos\Convertidor_Temperatura\Convertidor_Temperatura\obj\Debug\Convertidor_Temperatura.Properties.Resources.resources
+C:\Users\leona\source\repos\Convertidor_Temperatura\Convertidor_Temperatura\obj\Debug\Convertidor_Temperatura.csproj.GenerateResource.cache
+C:\Users\leona\source\repos\Convertidor_Temperatura\Convertidor_Temperatura\obj\Debug\Convertidor_Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\Convertidor_Temperatura\Convertidor_Temperatura\obj\Debug\Convertidor_Temperatura.exe
+C:\Users\leona\source\repos\Convertidor_Temperatura\Convertidor_Temperatura\obj\Debug\Convertidor_Temperatura.pdb
